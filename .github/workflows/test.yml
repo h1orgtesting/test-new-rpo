@@ -1,4 +1,4 @@
-name: "Proof-of-concept GitHub Actions workflow"
+name: "Proof-of-concept GitHsu<img>b Actions workflow"
 
 on:
   push
